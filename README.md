@@ -1,2 +1,2 @@
-# HamsterEfficiency-
+# HamsterEfficiency
 Hamster Kombat - Efficiency Calculator
